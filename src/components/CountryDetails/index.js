@@ -1,4 +1,4 @@
-export function CountryDetails() {
+export function CountryDetails(props) {
   return (
     <>
       <div class="col-7">
